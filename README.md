@@ -6,7 +6,7 @@ Project Url : [Fast Fingers](http://Tushar1401.github.io/fast-fingers)
 
 ![image](./src/Images/ss1.png)
 
-![image](./src/Images/ss1.png)
+![image](./src/Images/ss2.png)
 
 ### `npm start`
 
