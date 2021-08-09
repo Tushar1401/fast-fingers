@@ -8,6 +8,8 @@ Project Url : [Fast Fingers](http://Tushar1401.github.io/fast-fingers)
 
 ![image](./src/Images/ss2.png)
 
+![image](./src/Images/ss3.png)
+
 ### `npm start`
 
 Runs the app in the development mode.\
