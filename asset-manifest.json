@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fast-fingers/static/css/main.a40831b1.chunk.css",
+    "main.css": "/fast-fingers/static/css/main.6d6ce30e.chunk.css",
     "main.js": "/fast-fingers/static/js/main.6a851d81.chunk.js",
     "main.js.map": "/fast-fingers/static/js/main.6a851d81.chunk.js.map",
     "runtime-main.js": "/fast-fingers/static/js/runtime-main.1a2624cb.js",
@@ -8,7 +8,7 @@
     "static/js/2.fcca18e0.chunk.js": "/fast-fingers/static/js/2.fcca18e0.chunk.js",
     "static/js/2.fcca18e0.chunk.js.map": "/fast-fingers/static/js/2.fcca18e0.chunk.js.map",
     "index.html": "/fast-fingers/index.html",
-    "static/css/main.a40831b1.chunk.css.map": "/fast-fingers/static/css/main.a40831b1.chunk.css.map",
+    "static/css/main.6d6ce30e.chunk.css.map": "/fast-fingers/static/css/main.6d6ce30e.chunk.css.map",
     "static/js/2.fcca18e0.chunk.js.LICENSE.txt": "/fast-fingers/static/js/2.fcca18e0.chunk.js.LICENSE.txt",
     "static/media/github.81d265ee.svg": "/fast-fingers/static/media/github.81d265ee.svg",
     "static/media/linkedIn.c2ef956c.svg": "/fast-fingers/static/media/linkedIn.c2ef956c.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.1a2624cb.js",
     "static/js/2.fcca18e0.chunk.js",
-    "static/css/main.a40831b1.chunk.css",
+    "static/css/main.6d6ce30e.chunk.css",
     "static/js/main.6a851d81.chunk.js"
   ]
 }
