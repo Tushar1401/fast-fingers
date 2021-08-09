@@ -13,7 +13,7 @@ function Nav() {
                 <a
                     target="_blank"
                     className="nav-link"
-                    href="https://github.com/Tushar1401"
+                    href="https://github.com/Tushar1401/fast-fingers"
                     rel="noreferrer"
                 >
                 See Code                        

@@ -91,8 +91,18 @@
   .text-area-container {
     flex-direction: column;
     max-height: 60vh;
-    border: 2px solid red;
+    /* border: 2px solid red;÷ */
   }
+  .test-paragraph{
+      border-radius: 0;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+  }
+  .textarea-right{
+    border-radius: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
 
   .text-area-left,
   .text-area-right {
