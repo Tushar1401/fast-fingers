@@ -2,11 +2,11 @@
 
 Project Url : [Fast Fingers](http://Tushar1401.github.io/fast-fingers)
 
-## Screenshot
+## Screenshots
 
-![image](./Images/ss1)
+![image](./Images/ss1.png)
 
-![image](./Images/ss1)
+![image](./Images/ss1.png)
 
 ### `npm start`
 
